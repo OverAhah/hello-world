@@ -1,2 +1,1 @@
-# hello-world
-Stepik homework
+# Stepik homework
