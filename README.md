@@ -1,2 +1,2 @@
 # hello-world
-Just new
+Stepik homework
